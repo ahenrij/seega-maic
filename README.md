@@ -1,4 +1,4 @@
-## MIFY Intelligence Artificial Contest 2018
+## MIFY Artificial Intelligence Contest 2018
 ### Team Berlin (Semi-finalist)
 Contest informations: https://maic.mify-ai.com/maic2018
 
