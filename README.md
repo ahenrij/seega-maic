@@ -2,7 +2,7 @@
 ### Team Berlin (Semi-finalist)
 Contest informations: https://maic.mify-ai.com/maic2018
 
-The implementation of the IA player is in the file ia_player.py
+The implementation of the IA player is in the file __ia_player.py__
 
 ### Run
 Requirements 
