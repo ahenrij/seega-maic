@@ -1,6 +1,6 @@
 ## MIFY Intelligence Artificial Contest 2018
 ### Team Berlin (Semi-finalist)
-Contest informations : https://maic.mify-ai.com/maic2018
+Contest informations: https://maic.mify-ai.com/maic2018
 
 The implementation of the IA player is in the file ia_player.py
 
